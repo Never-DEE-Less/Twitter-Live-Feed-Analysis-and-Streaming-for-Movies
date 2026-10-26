@@ -61,3 +61,8 @@ Results
 - Effective Marketing Strategies: Provided data-driven recommendations that aligned marketing initiatives with audience preferences, leading to more effective promotional tactics.
 
 - Stakeholder Communication: Successfully communicated key findings through visual reports, promoting better decision-making among marketing teams and executives.
+
+## Contributors
+
+- [Basavadeepthi H M](https://github.com/Never-DEE-Less)
+- [Shiva Teja Pecheti](https://github.com/shivatejapecheti)
